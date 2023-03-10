@@ -6,9 +6,14 @@ layout: default
       <div class="image">
         <img src="/images/Menghan-Yuan.jpg">
       </div>
-<!--       <div class="text">
-        <h1>This is a beautiful picture.</h1>
-      </div> -->
+      <div class="text">
+        <p> T:  +44(0)1865 278 500 <br>
+            E:  menghan.yuan@nuffield.ox.ac.uk <br>
+            Nuffield College <br>
+            New Road <br>
+            Oxford <br>
+            OX1 1NF </p>
+      </div> 
 </div>
 
 Menghan is working as a postdoctoral researcher at the Climate Econometrics research group at Nuffield College, University of Oxford.
@@ -24,7 +29,7 @@ Menghan Yuan, Thomas Leirvik, and Martin Wild (2021). “Global trends in downwa
 ### Papers Submitted
 Menghan Yuan, Thomas Leirvik, Trude Storelvmo, Kari Alterskjær, Peter C.B. Phillips, Christopher Smith (2022). “High-sensitivity Earth System Models most consistent with observations.” currently under R&R by _Journal of Climate_, previously resubmitted yet rejected eventually by _Nature Communications_ and _PNAS_. [LINK to Paper](https://drive.google.com/file/d/1RfYd9XqXj52zMBc5v-278BOcjfSLrZ-G/view?usp=share_link).
 
-### Working Papers
+### Papers in Progress
 Menghan Yuan, Thomas Leirvik, and Hande Karabiyik. "Interactive Effects of Temperature and Precipitation on Global Economic Growth". Working Paper. [LINK to Paper](https://drive.google.com/file/d/15DzikEu_hlXkugRyfYN3lrlWspXKa0CV/view?usp=share_link). 
 
 Menghan Yuan. "Heterogeneity in the Effects of Climate Change on Soybean Yields". Working Paper. [LINK to Paper](https://drive.google.com/file/d/1L2s59vL-O7ZemO9TaLhbgiy5MfTogphB/view?usp=share_link). 
