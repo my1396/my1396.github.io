@@ -7,7 +7,7 @@ layout: default
         <img src="/images/Menghan-Yuan.jpg">
       </div>
       <div class="text">
-        <p> T:  +44(0)1865 278 500 <br>
+        <p> T:  +47 9734 1554 <br>
             E:  <a href="mailto:menghan.yuan@nuffield.ox.ac.uk">menghan.yuan@nuffield.ox.ac.uk</a> <br>
             Nuffield College <br>
             New Road <br>
