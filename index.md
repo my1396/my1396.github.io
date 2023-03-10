@@ -10,3 +10,4 @@ layout: default
         <h1>This is a beautiful picture.</h1>
       </div>
 </div>
+test
