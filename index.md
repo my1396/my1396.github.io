@@ -6,7 +6,7 @@ layout: default
       <div class="image">
         <img src="/images/Menghan-Yuan.jpg">
       </div>
-      <div class="text">
+      <div>
         <h1>This is a beautiful picture.</h1>
       </div>
 </div>
