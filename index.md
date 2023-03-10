@@ -8,7 +8,7 @@ layout: default
       </div>
       <div class="text">
         <p> T:  +44(0)1865 278 500 <br>
-            E:  [menghan.yuan@nuffield.ox.ac.uk](mailto:menghan.yuan@nuffield.ox.ac.uk) <br>
+            E:  <a href="mailto:menghan.yuan@nuffield.ox.ac.uk">menghan.yuan@nuffield.ox.ac.uk</a> <br>
             Nuffield College <br>
             New Road <br>
             Oxford <br>
